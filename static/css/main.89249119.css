@@ -1,0 +1,2 @@
+.container{border:1px solid #000;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);height:150px;width:500px}.item1,.item2,.item3,.item4,.item5,.item6,.item7{align-items:center;border:1px solid #000;display:flex;justify-content:center}.item0{border:1px solid #000;border-top:0}.item4{border-bottom:0}.item5{font-weight:700;grid-area:2/2/2/4}.item5>span{cursor:pointer}
+/*# sourceMappingURL=main.89249119.css.map*/
